@@ -1,0 +1,66 @@
+.flow {
+overflow: hidden;
+white-space: nowrap;
+width: 100%;
+max-width: 2400px;
+margin: 0 auto;
+position: relative;
+}
+
+.flow:before,
+.flow:after {
+  background: linear-gradient(to right, rgba(153, 151, 111, 1), rgba(153, 151, 111, 0));
+  content: '';
+  height: 100%;
+  position: absolute;
+  width: 200px;
+  z-index: 30;
+}
+
+@media (max-width: 1024px) {
+  .flow:before,
+  .flow:after {
+    display: none;
+  }
+}
+
+.flow:after {
+  right: 0;
+  top: 0;
+  transform: rotateZ(180deg);
+}
+
+.flow:before {
+  left: 0;
+  top: 0;
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(calc((-280px - 32px) * 7));
+  }
+}
+
+.carousel {
+  display: flex;
+  width: calc((280px + 32px) * 14);
+  animation: scroll 90s linear infinite; /* Adjust time for speed */
+  gap: 2rem;
+  align-items: flex-start;
+  z-index: 20;
+}
+
+.carouselItem {
+  width: 280px;
+  height: 140px;
+  flex-shrink: 0;
+  padding: 2rem;
+  display: flex;
+  align-items: center;
+  text-wrap: balance;
+  justify-content: center;
+  background: rgba(255,255,255,0.25);
+}
