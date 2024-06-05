@@ -25,21 +25,21 @@ export function HomeAbout(props: Props) {
             </h2>
             <div className="prose lg:prose-xl">
               <p>
-                S.C.A. COSOVANU SI ASOCIATIl a fost infiintata ni 1999 de doi
-                fosti magistrati, find inca de la inceput specializata pe
+                S.C.A. COSOVANU ȘI ASOCIAȚII a fost înființată în 1999 de doi
+                foști magistrați, fiind încă de la început specializată pe
                 problematica dreptului penal.
               </p>
               <p>
-                Societatea a fost gandita sa functioneze intr-o structura supla,
-                sudata in timp, care permite valorificarea avantajelor muncii in
-                echipa, cu consecinta adoptarii celor mai eficiente solutii
-                favorabile clientului, atat pe latura penala, dar si pe latura
-                civila a cauzei.
+                Societatea a fost gândită să funcționeze într-o structură suplă,
+                sudată în timp, care permite valorificarea avantajelor muncii în
+                echipă, cu consecința adoptării celor mai eficiente soluții
+                favorabile clientului, atât pe latura penală, cât și pe latura
+                civilă a cauzei.
               </p>
               <p>
-                Membrii societatii au o arie de expertiza care cuprinde intreaga
-                problematica a dreptului penal, acordandu-se prioritate
-                principiului strictei specializari.
+                Membrii societății au o arie de expertiză care cuprinde întreaga
+                problematică a dreptului penal, acordându-se prioritate
+                principiului strictei specializări.
               </p>
             </div>
 

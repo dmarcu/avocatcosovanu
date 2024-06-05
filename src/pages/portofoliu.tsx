@@ -29,25 +29,18 @@ export default function Portofoliu(props: Props) {
         <div className="flex flex-col gap-8">
           <div className="prose mx-auto">
             <p>
-              Natura penala a cauzelor si obligatia legala de confidentialitate
-              nu premit nominalizarea persoanelor fizice sau juridice pentru
-              care societatea a acordat si/sau acorda servicii de asistenta
-              juridica, reprezentare sau consultanta, cu atat mai mult cat
-              printre clienti se numara persoane publice (fosti sau actuali
-              ministri, parlamentari, presedinti de consilii judetene, primari,
-              politisti, militari, jandarmi, procurori, judecatori, conducatori
-              de institutii publice precum si alti functionari publici).
+              Natura penală a cauzelor și obligația legală de confidențialitate
+              nu permit nominalizarea persoanelor fizice sau juridice pentru
+              care societatea a acordat și/sau acordă servicii de asistență
+              juridică, reprezentare sau consultanță, cu atât mai mult cu cât
+              printre clienți se numără persoane publice (foști sau actuali
+              miniștri, parlamentari, președinți de consilii județene, primari,
+              polițiști, militari, jandarmi, procurori, judecători, conducători
+              de instituții publice, precum și alți funcționari publici).
             </p>
             <p>
-              Natura penala a cauzelor si obligatia legala de confidentialitate
-              nu premit nominalizarea persoanelor fizice sau juridice pentru
-              care societatea a acordat si/sau acorda servicii de asistenta
-              juridica, reprezentare sau consultanta, cu atat mai mult cat
-              printre clienti se numara persoane publice (fosti sau actuali
-              ministri, parlamentari, presedinti de consilii judetene, primari,
-              politisti, militari, jandarmi, procurori, judecatori, conducatori
-              de institutii publice precum si alti functionari publici). Printre
-              cele mai cunoscute cazue mentionam pe cele denumite generic:
+              Printre cele mai cunoscute cauze menționăm pe cele denumite
+              generic:
             </p>
           </div>
           <div className="max-w-prose mx-auto">

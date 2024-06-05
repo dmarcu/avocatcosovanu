@@ -23,71 +23,59 @@ export default function Despre(props: Props) {
             </h1>
             <div className="prose lg:prose-xl">
               <p>
-                S.C.A. COSOVANU SI ASOCIATII a fost infiintata in 1999 de doi
-                fosti magistrati, find inca de la inceput specializata pe
+                S.C.A. COSOVANU ȘI ASOCIAȚII a fost înființată în 1999 de doi
+                foști magistrați, fiind încă de la început specializată pe
                 problematica dreptului penal.
-              </p>
-              <p>
-                Societatea a fost gandita sa functioneze intr-o structura supla,
-                sudata in timp, care permite valorificarea avantajelor muncii in
-                echipa, cu consecinta adoptarii celor mai eficiente solutii
-                favorabile clientului, atat pe latura penala, dar si pe latura
-                civil a acauzei.
-              </p>
-              <p>
-                Membrii societatii au o arie de expertiza care cuprinde intreaga
-                problematica a dreptului penal, acordandu-se prioritate
-                principiului strictei specializari.
-              </p>
-              <p>
-                Sunt vizate aici atat infractiunile reglementate de Codul Penal,
-                cat si cele din legi speciale, inclusiv: criminalitate
-                economico-finaciara, legislatia achizitillor publice,
-                infractiuni la regimul sigurantei circulatiei, trafic si consum
-                de droguri, infractiuni de coruptie si cele asimilate acestora,
-                spalare de bani, infractiuni la regimul societatilor comerciale,
-                infractiuni impotriva intereselor financiare ale Comunitatii
-                Europene, infractiuni de serviciu sau in legatura cu serviciul,
-                infractiuni de evaziune fiscala, fraude comise prin sisteme
-                informatice si mijloace de plata electronice.
-              </p>
-              <p>
-                Societatea acorda atat servicii de asistenta juridica si
-                reprezentare a clientilor in toate fazele procesului penal, cat
-                si servicii de consultanta pentru prevenirea riscurilor in
-                materie penala, la cerere sau pe baza de abonament.
-              </p>
-              <p>
-                Ca o expresie a profesionalismului si grijii fata de interesele
-                clientilor, membri societatii asigura si participarea la
-                efectuarea activitatilor care nu implica prezenta clientului in
-                procesul penal, dobandind astfel o perceptie in timp real a
-                evolutiei cazului, cu consecinta adoptarii comportamentului
-                procesual optim pentru client.
-              </p>
-              <p>
-                Societatea asigura si deplasarea membrilor pentru efectuarea
-                activitatilor de asistenta juridica si reprezentare in cauzele
-                aflate pe rolul altor organe judiciare decat cele aflate in
-                Bucuresti.
               </p>
 
               <p>
-                S.C.A. COSOVANU SI ASOCIATIl a fost infiintata ni 1999 de doi
-                fosti magistrati, find inca de la inceput specializata pe
-                problematica dreptului penal.
+                Societatea a fost gândită să funcționeze într-o structură suplă,
+                sudată în timp, care permite valorificarea avantajelor muncii în
+                echipă, cu consecința adoptării celor mai eficiente soluții
+                favorabile clientului, atât pe latura penală, dar și pe latura
+                civilă a cauzei.
               </p>
+
               <p>
-                Societatea a fost gandita sa functioneze intr-o structura supla,
-                sudata in timp, care permite valorificarea avantajelor muncii in
-                echipa, cu consecinta adoptarii celor mai eficiente solutii
-                favorabile clientului, atat pe latura penala, dar si pe latura
-                civila a cauzei.
+                Membrii societății au o arie de expertiză care cuprinde întreaga
+                problematică a dreptului penal, acordându-se prioritate
+                principiului strictei specializări.
               </p>
+
               <p>
-                Membrii societatii au o arie de expertiza care cuprinde intreaga
-                problematica a dreptului penal, acordandu-se prioritate
-                principiului strictei specializari.
+                Sunt vizate aici atât infracțiunile reglementate de Codul Penal,
+                cât și cele din legi speciale, inclusiv: criminalitate
+                economico-financiară, legislația achizițiilor publice,
+                infracțiuni la regimul siguranței circulației, trafic și consum
+                de droguri, infracțiuni de corupție și cele asimilate acestora,
+                spălare de bani, infracțiuni la regimul societăților comerciale,
+                infracțiuni împotriva intereselor financiare ale Comunității
+                Europene, infracțiuni de serviciu sau în legătură cu serviciul,
+                infracțiuni de evaziune fiscală, fraude comise prin sisteme
+                informatice și mijloace de plată electronice.
+              </p>
+
+              <p>
+                Societatea acordă atât servicii de asistență juridică și
+                reprezentare a clienților în toate fazele procesului penal, cât
+                și servicii de consultanță pentru prevenirea riscurilor în
+                materie penală, la cerere sau pe bază de abonament.
+              </p>
+
+              <p>
+                Ca o expresie a profesionalismului și grijii față de interesele
+                clienților, membrii societății asigură și participarea la
+                efectuarea activităților care nu implică prezența clientului în
+                procesul penal, dobândind astfel o percepție în timp real a
+                evoluției cazului, cu consecința adoptării comportamentului
+                procesual optim pentru client.
+              </p>
+
+              <p>
+                Societatea asigură și deplasarea membrilor pentru efectuarea
+                activităților de asistență juridică și reprezentare în cauzele
+                aflate pe rolul altor organe judiciare decât cele aflate în
+                București.
               </p>
             </div>
           </div>

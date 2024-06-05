@@ -8,8 +8,8 @@ type MemberProps = {
 };
 function Member(member: MemberProps) {
   return (
-    <div className="flex flex-col gap-2">
-      <img src={member.img} alt="" className="w-full" />
+    <div className="flex flex-col gap-2 bg-slate-200 py-8">
+      {/*<img src={member.img} alt="" className="w-full" />*/}
       <h3 className="text-center">{member.name}</h3>
     </div>
   );
