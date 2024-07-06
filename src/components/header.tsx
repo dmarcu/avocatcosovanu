@@ -81,7 +81,7 @@ export function Header(props: Props) {
             </li>
             <li className="">
               <a
-                href="tel:+400744371625"
+                href="tel:+40744371625"
                 className="flex items-center gap-2 text-primary-foreground py-2 text-nowrap text-sm"
               >
                 <Phone className="text-secondary" size={20} />

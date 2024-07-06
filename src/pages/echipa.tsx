@@ -17,7 +17,7 @@ Cunoașterea elementelor de psihologie, din proprie experiență, a celor trei p
     img: "https://placehold.co/300x400",
     phone: "+40 720 070 158",
     email: "catalina.bobe@yahoo.ro",
-    text: `Este avocat din anul 2004 și titulara unei diplome de masterat în domeniul criminalității organizate. Provine dintr-o familie care a activat în domeniul juridic, fiind familiarizată cu mediul (judecător, grefier).\n
+    text: `Este avocat din anul 2004 și titulara unei diplome de masterat în domeniul criminalității organizate. Provine dintr-o familie care a activat în domeniul juridic, fiind familiarizată cu acest mediu (judecător, grefier).\n
 Totodată, este licențiată și a Universității Politehnica București, ceea ce îi potențează caracterul pragmatic și organizat al activităților.\n
 Asigură atât servicii de asistență juridică și reprezentare, cât și consultanță în materie penală.\n`,
   },

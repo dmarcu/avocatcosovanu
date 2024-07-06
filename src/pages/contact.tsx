@@ -2,23 +2,6 @@ import * as React from "react";
 import Image from "next/image";
 import { Mail, MapPin, Phone } from "lucide-react";
 
-const items = [
-  "Hexi Pharma",
-  "Colectiv",
-  "Rompetrol 1 si 2",
-  "ANPR 1 si 2",
-  "Rafo-Carom",
-  "Case pentru generali",
-  "Spitalul de arsi",
-  "Rapirea juralistilor din Irak",
-  "ROMSILVA (retrocedare paduri)",
-  "Rambursare TVA Dolj",
-  "CNA",
-  "Loteria natioanala",
-  "Cocaina recuperata de pe plaja",
-  "Reciclare deseuri ecologizare",
-];
-
 type Props = {};
 
 export default function Contact(props: Props) {
@@ -40,18 +23,22 @@ export default function Contact(props: Props) {
             </h1>
             <ul className="flex flex-col gap-8">
               <li>
-                <a href="tel:+400744371625" className="flex gap-4">
+                <div className="flex gap-4">
                   <Phone className="text-secondary" />
-                  0744 371 625
-                </a>
+                  <div className="flex flex-col gap-2">
+                    <a href="tel:+40744371625">0744 371 625</a>
+                    <a href="tel:+40720070158">0720 070 158</a>
+                    <a href="tel:+40722372894">0722 372 894</a>
+                  </div>
+                </div>
               </li>
               <li>
                 <a
-                  href="mailto:cornelcosovanu@yahoo.com"
+                  href="mailto:avocatcosovanu@gmail.com"
                   className="flex gap-4"
                 >
                   <Mail className="text-secondary" />
-                  cornelcosovanu@yahoo.com
+                  avocatcosovanu@gmail.com
                 </a>
               </li>
               <li>
@@ -63,7 +50,7 @@ export default function Contact(props: Props) {
                   <p>
                     Sfanta Vineri nr. 32
                     <br />
-                    bl. A5, sc. A, et. 4, ap. 19
+                    bl. A5, sc. A, et. 4, ap. 19, int. 19
                     <br />
                     sector 3, Bucuresti
                   </p>

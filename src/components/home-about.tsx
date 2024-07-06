@@ -37,8 +37,8 @@ export function HomeAbout(props: Props) {
                 civilă a cauzei.
               </p>
               <p>
-                Membrii societății au o arie de expertiză care cuprinde întreaga
-                problematică a dreptului penal, acordându-se prioritate
+                Membrii societății au o arie de competentă care cuprinde
+                întreaga problematică a dreptului penal, acordându-se prioritate
                 principiului strictei specializări.
               </p>
             </div>

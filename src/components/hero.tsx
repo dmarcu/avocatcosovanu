@@ -18,7 +18,7 @@ export function Hero(props: Props) {
           </div>
           <div>
             <a
-              href="tel:+400744371625"
+              href="tel:+40744371625"
               className={buttonVariants({ variant: "outlineSecondary" })}
             >
               Contacteaza-ne
